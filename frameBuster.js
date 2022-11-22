@@ -6,6 +6,7 @@
             
             document.addEventListener("DOMContentLoaded", function () {
               if (self == top) {
+                  //sdfg
                 // Everything checks out, show the page.
                 document.documentElement.style.display = 'block'
                 } else {
